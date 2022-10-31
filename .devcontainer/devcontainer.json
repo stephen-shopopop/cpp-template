@@ -20,7 +20,17 @@
 				"ms-vscode.cmake-tools",
 				"ms-vscode.cpptools-extension-pack",
 				"mutantdino.resourcemonitor"
-			]
+			],
+			"settings": {
+                                "[c]": {
+                                   "editor.defaultFormatter": "ms-vscode.cpptools"
+                                   //☝🏼 Select the MS extension as defaultFormatter
+                                },
+                                "[cpp]": {
+                                  "editor.defaultFormatter": "ms-vscode.cpptools"
+                                },
+			        "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 3, IncludeBlocks: Merge, IndentGotoLabels: true, KeepEmptyLinesAtTheStartOfBlocks: true}"
+			}
 		}
 	},
 
