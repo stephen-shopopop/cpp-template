@@ -4,3 +4,5 @@
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 # C++ template
+
+- [documentation](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/etre-un-developpeur/ameliorer-ses-projets/#3-cmake-automatiser-la-compilation-de-nos-programmes)
